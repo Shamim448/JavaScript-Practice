@@ -8,7 +8,12 @@
         akhane someThing ta undifine na karon ar vitor null rakha hoise bur null ar kono ostitto nai, so someThing akhon null
 ### Non Premitive / Referance Type
 1. Array 2. Object  3. Function
-2. 
+
+### Logical Operator
+- AND(&&) = If All true then true other wise false
+- OR(||) = If all false then false other wise true
+- টার্নারি অপারেটরঃযদি কন্ডিশন সত্য হয় ? তাইলে ভ্যালু এটা : নাইলে ভ্যালু এইটা
+- 
         
 
 
